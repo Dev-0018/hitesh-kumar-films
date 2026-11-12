@@ -1,4 +1,0 @@
-window.HKF_CONFIG = {
-  SUPABASE_URL: "https://ksfwrimrcwbmtrbluugp.supabase.co",
-  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtzZndyaW1yY3dibXRyYmx1dWdwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTAzMTYyMDAsImV4cCI6MjEwNTg5MjIwMH0.Kth47Xizi8W2u8QFXuQyZ_lFec5oXSMUycsGHynSCe0"
-};
